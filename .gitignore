@@ -2,3 +2,4 @@
 .venv
 .env
 beta-tester.csv
+firebase-testers.csv
